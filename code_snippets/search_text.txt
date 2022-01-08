@@ -1,0 +1,9 @@
+                <section class="sidebar-search">
+                    <div class="search-wrap">
+                        <img src="http://localhost/webrtc/assets/images/search-solid.svg" alt="Search Icon">
+                        <input type="text" placeholder="Search for User" class="search-user">
+                    </div>
+                </section>
+                <section class="g-search-user-container">
+
+                </section>
